@@ -1,70 +1,50 @@
-<mjml>
-
+<mjml owa="desktop">
   <mj-head>
-
     <mj-attributes>
       <mj-text align="center" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
-
   </mj-head>
-
   <mj-body background-color="#eee">
-    
-    <!-- Company Header -->
+    <mj-section background-color="#000000" padding-top="70px">
+      <mj-column>
+        <mj-image width="80px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-black.png">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-hero mode="fluid-height" background-width="600px" background-height="300px" background-url="https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2515&q=80" background-color="#000000" padding="100px 0px">
+      <mj-text color="#fff" font-size="24px" font-weight="bold" font-style="italic"> XR Possibilities. Enterprise Scale. </mj-text>
+      <mj-text color="#fff" font-size="24px" padding-top="20px"> Made real. By Dell Singapore. </mj-text>
+    </mj-hero>
     <mj-section background-color="#000000">
-      <mj-column>
-        <mj-text color="#fff" align="center">
-          DXR
-        </mj-text>
+      <mj-column padding="0px 15px">
+        <mj-text color="#ffffff" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">We would like to invite you to the opening of Dell's DXR Studios in Singapore. </mj-text>
+        <mj-text color="#ffffff" padding-bottom="70px">Come and meet the team at DXR Studios from Dell - the holistic, full-service provider making enterprise-grade AR, VR, XR reality today. </mj-text>
       </mj-column>
     </mj-section>
-    
-    <!-- Image Header -->
-    <mj-section background-color="#f8f8f8" 
-                background-url="https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2515&q=80"
-              background-size="cover"
-              background-repeat="no-repeat">
-    	<mj-column>
-        <mj-text color="#fff"
-                font-size="36px">
-          THE VR REVOLUTION IS HERE
-        </mj-text>
-        <mj-text color="#fff"
-                font-size="12px">
-          XR Possibilities. Enterprise Scale.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    
-    <!-- Intro Text -->
-    <mj-section background-color="#000">
-      <mj-column>
-        <mj-text color="#fff" padding="50px">
-          My, philosophy is, basically this. And this is something that I live by. And I always have. And I always will. Don’t, ever, for any reason, do anything, to anyone, for any reason, ever, no matter what, no matter where, or who you are with, or, or where you are going, or, or where you’ve been. Ever. For any reason. Whatsoever.
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- Main Content -->
-    <mj-section background-color="#ffffff">
-    </mj-section>
-
-    <!-- Footer -->
     <mj-section background-color="#000000">
-      <mj-column>
-          <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="20px">
-            <mj-social-element name="instagram" href="https://mjml.io/" background-color="#A1A0A0">
-            </mj-social-element>
-            <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
-            </mj-social-element>
-          </mj-social>
-      </mj-column>
-
-
-
-
+    	
     </mj-section>
-		
+    <mj-section background-color="#000000">
+      <mj-column padding="0px 15px">
+        <mj-text color="#ffffff" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">You're personally invited. </mj-text>
+        <mj-text color="#ffffff">This is your personal invite to explore the DXR Studios space in Singapore, and to meet the head of DXR, Martin Sawtell for a 1:1 discussion on your clients and where XR could help. </mj-text>
+        <mj-text color="#ffffff">Click below to book your intro chat now </mj-text>
+        <mj-button href="https://www.calendly.com" padding-top="45px"> Book a Session </mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#000000" padding-top="50px" padding-bottom="20px">
+      <mj-column>
+        <mj-social font-size="15px" icon-size="30px" mode="horizontal">
+          <mj-social-element name="instagram" href="https://mjml.io/" background-color="#A1A0A0">
+          </mj-social-element>
+          <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
+          </mj-social-element>
+        </mj-social>
+        <mj-image width="40px" padding="20px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-black.png">
+        </mj-image>
+        <mj-text> Copyright @2021 | DXR Studios | The VR Revolution is here</mj-text>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
