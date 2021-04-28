@@ -4,6 +4,7 @@
       <mj-text align="center" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
+    <mj-preview>We would like to invite you to the opening of Dell's DXR Studios in Singapore</mj-preview>
   </mj-head>
   <mj-body background-color="#eee">
     <mj-section background-color="#000000" padding-top="70px">
@@ -12,10 +13,12 @@
         </mj-image>
       </mj-column>
     </mj-section>
-    <mj-hero mode="fluid-height" background-width="600px" background-height="300px" background-url="https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2515&q=80" background-color="#000000" padding="100px 0px">
-      <mj-text color="#fff" font-size="24px" font-weight="bold" font-style="italic"> XR Possibilities. Enterprise Scale. </mj-text>
-      <mj-text color="#fff" font-size="24px" padding-top="20px"> Made real. By Dell Singapore. </mj-text>
-    </mj-hero>
+    <mj-section background-color="#000000">
+      <mj-column>
+        <mj-image padding="0" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/header-image.png" alt="XR Possibilities. Enterprise Scale. Made Real, By Dell Singapore">
+        </mj-image>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#000000">
       <mj-column padding="0px 15px">
         <mj-text color="#ffffff" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">We would like to invite you to the opening of Dell's DXR Studios in Singapore. </mj-text>
@@ -25,9 +28,7 @@
     <mj-section background-color="#000000">
       <mj-column>
         <mj-image width="350px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/martin-headshot.png" />
-        <mj-text color="#fff">
-        As XR designers, engineers, consultants, & evangelists, we believe in the transformative potential of XR - at scale and driving real value.		
-      	</mj-text>
+        <mj-text color="#fff"> As XR designers, engineers, consultants, & evangelists, we believe in the transformative potential of XR - at scale and driving real value. </mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#000000">
@@ -45,10 +46,11 @@
           </mj-social-element>
           <mj-social-element name="linkedin" href="https://mjml.io/" background-color="#A1A0A0">
           </mj-social-element>
+          <mj-social-element alt="linkedin" href="https://www.dxrstudio.com/" background-color="#000" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/linkedin-icon.png"></mj-social-element>
         </mj-social>
         <mj-image width="40px" padding="20px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-black.png">
         </mj-image>
-        <mj-text> Copyright @2021 | DXR Studios | The VR Revolution is here</mj-text>
+        <mj-text>Copyright @2021 | DXR Studios | The VR Revolution is here</mj-text>
       </mj-column>
     </mj-section>
   </mj-body>
