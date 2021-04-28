@@ -23,14 +23,19 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#000000">
-    	
+      <mj-column>
+        <mj-image width="350px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/martin-headshot.png" />
+        <mj-text color="#fff">
+        As XR designers, engineers, consultants, & evangelists, we believe in the transformative potential of XR - at scale and driving real value.		
+      	</mj-text>
+      </mj-column>
     </mj-section>
     <mj-section background-color="#000000">
       <mj-column padding="0px 15px">
         <mj-text color="#ffffff" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">You're personally invited. </mj-text>
         <mj-text color="#ffffff">This is your personal invite to explore the DXR Studios space in Singapore, and to meet the head of DXR, Martin Sawtell for a 1:1 discussion on your clients and where XR could help. </mj-text>
         <mj-text color="#ffffff">Click below to book your intro chat now </mj-text>
-        <mj-button href="https://www.calendly.com" padding-top="45px"> Book a Session </mj-button>
+        <mj-button href="https://www.calendly.com" padding-top="45px" background-color="#1B54DD"> Book a Session </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#000000" padding-top="50px" padding-bottom="20px">
