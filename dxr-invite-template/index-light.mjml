@@ -6,14 +6,14 @@
     </mj-attributes>
     <mj-preview>We would like to invite you to the opening of Dell's DXR Studios in Singapore</mj-preview>
   </mj-head>
-  <mj-body background-color="#eee">
+  <mj-body background-color="#fff">
     <mj-section background-color="#fff" padding-top="70px">
       <mj-column>
         <mj-image width="80px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-dark.png" href="https://www.dxrstudio.com/">
         </mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#fff">
+    <mj-section background-color="#fff" padding="0">
       <mj-column>
         <mj-image padding="0" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/header-image.png" alt="XR Possibilities. Enterprise Scale. Made Real, By Dell Singapore">
         </mj-image>
