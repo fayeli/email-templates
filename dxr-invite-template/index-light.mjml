@@ -4,12 +4,12 @@
       <mj-text align="center" color="#555" />
       <mj-section background-color="#fff" />
     </mj-attributes>
-    <mj-preview>We would like to invite you to the opening of Dell's DXR Studios in Singapore</mj-preview>
+    <mj-preview>Your personal invite to the opening of Dell's DXR Studios in Singapore.</mj-preview>
   </mj-head>
   <mj-body background-color="#fff">
     <mj-section background-color="#fff" padding-top="70px">
       <mj-column>
-        <mj-image width="80px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-dark.png" href="https://www.dxrstudio.com/">
+        <mj-image width="80px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-gray.png" href="https://www.dxrstudio.com/">
         </mj-image>
       </mj-column>
     </mj-section>
@@ -21,15 +21,15 @@
     </mj-section>
     <mj-section background-color="#fff">
       <mj-column padding="0px 15px">
-        <mj-text color="#000" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">We would like to invite you to the opening of Dell's DXR Studios in Singapore. </mj-text>
-        <mj-text color="#000" padding-bottom="70px">Come and meet the team at DXR Studios from Dell - the holistic, full-service provider making enterprise-grade AR, VR, XR reality today. </mj-text>
+        <mj-text color="#000" font-size="24px" font-weight="bold" font-style="italic" padding-top="70px">Your personal invite to the opening of Dell's DXR Studios in Singapore.</mj-text>
+        <mj-text color="#000" padding-bottom="70px">Come and meet the team at DXR Studios from Dell - the holistic, full-service provider making enterprise-grade AR, VR, XR reality today.</mj-text>
         <mj-divider width="100px" border-width="1px" border-color="#c4c4c4"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff">
       <mj-column>
-        <mj-image width="350px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/martin-headshot.png" />
-        <mj-text color="#000"> As XR designers, engineers, consultants, & evangelists, we believe in the transformative potential of XR - at scale and driving real value. </mj-text>
+        <mj-image width="350px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/martin-headshot.png" alt="Martin Sawtell @ DXR Studios"/>
+        <mj-text color="#000">As XR designers, engineers, consultants, & evangelists, we believe in the transformative potential of XR - at scale and driving real value.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff">
@@ -38,18 +38,19 @@
         <mj-text color="#000" font-size="24px" font-weight="bold" font-style="italic" padding-top="50px">You're personally invited. </mj-text>
         <mj-text color="#000">This is your personal invite to explore the DXR Studios space in Singapore, and to meet the head of DXR, Martin Sawtell for a 1:1 discussion on your clients and where XR could help. </mj-text>
         <mj-text color="#000">Click below to book your intro chat now </mj-text>
-        <mj-button href="https://calendly.com/dxrstudios/dxr-intro" padding-top="45px" background-color="#1B54DD"> Book a Session </mj-button>
+        <mj-button href="https://calendly.com/dxrstudios/dxr-intro" padding-top="45px" background-color="#AA38C3"> Book a Session </mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#fff" padding-top="50px" padding-bottom="20px">
       <mj-column>
         <mj-social font-size="15px" icon-size="20px" mode="horizontal">
-          <mj-social-element alt="instagram" padding="10px" href="https://www.dxrstudio.com/" background-color="#fff" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/instagram.png"></mj-social-element>
-          <mj-social-element alt="mailto" padding="10px" href="https://www.dxrstudio.com/" background-color="#fff" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/mail.png"></mj-social-element>
+          <mj-social-element alt="instagram" padding="10px" href="https://www.instagram.com/dxrstudios/" background-color="#fff" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/instagram.png"></mj-social-element>
+          <mj-social-element alt="email" padding="10px" href="mailto:dxrstudio@dell.com" background-color="#fff" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/mail.png"></mj-social-element>
         </mj-social>
-        <mj-image width="50px" padding="20px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-dark.png" href="https://www.dxrstudio.com/">
+        <mj-image width="50px" padding="20px" src="https://raw.githubusercontent.com/fayeli/email-templates/main/assets/dxr-logo-gray.png" href="https://www.dxrstudio.com/">
         </mj-image>
         <mj-text>Copyright @2021 | dxrstudios.com | The VR Revolution is here</mj-text>
+        
       </mj-column>
     </mj-section>
   </mj-body>
